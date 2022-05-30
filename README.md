@@ -19,6 +19,8 @@ python main.py -h获取工具使用帮助，实在不行你GitHub联系我，我
 
 pycharm中使用需要以main.py所在目录创建项目才能进行使用
 
+或者你打个EXE直接双击
+
 #### 0x02 Bug问题
 
 Bug请提交Issues，有时间会看的
