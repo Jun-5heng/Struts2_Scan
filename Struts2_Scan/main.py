@@ -142,7 +142,7 @@ def main(info, version, url, file, name, data, header, encode, proxy, exec, lin_
         exit(0)
 
     if version:
-        click.secho("by: Jun_sheng & Mansi / version 0.1", fg='green')
+        click.secho("by: Jun_sheng & Mansi / version 0.2", fg='green')
         exit(0)
 
     if proxy:
