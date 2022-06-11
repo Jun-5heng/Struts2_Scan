@@ -19,7 +19,7 @@
 
 python main.py -h获取工具使用帮助，实在不行你GitHub联系我，我教你用
 
-![1.png](./img/1.png)
+![1.png](img/1.png)
 
 pycharm中使用需要以main.py所在目录创建项目才能进行使用
 
@@ -27,7 +27,7 @@ pycharm中使用需要以main.py所在目录创建项目才能进行使用
 
 目前支持漏洞如下：
 
-![2.png](./img/2.png)
+![2.png](img/2.png)
 
 #### 0x02 Bug问题
 
